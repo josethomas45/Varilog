@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Jose Thomas/LogicGates/xor_1_isim_beh.exe" -prj "D:/Jose Thomas/LogicGates/xor_1_beh.prj" "work.xor_1" "work.glbl" 
